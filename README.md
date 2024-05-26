@@ -10,26 +10,25 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api?username=danielptv&theme=github_dark&show_icons=true&count_private=true&hide=contribs" 
-      media="(prefers-color-scheme: dark)" 
-    />
+      srcset="https://danielptv-github-readme-stats.vercel.app/api?username=danielptv&theme=github_dark&show_icons=true&count_private=true&hide=contribs" 
+      media="(prefers-color-scheme: dark)"
         <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api?username=danielptv&show_icons=true&count_private=true&hide=contribs" 
+      srcset="https://danielptv-github-readme-stats.vercel.app/api?username=danielptv&show_icons=true&count_private=true&hide=contribs" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://tuunit-github-readme-stats.vercel.app/api?username=danielptv&show_icons=true&count_private=true&hide=contribs" />
+    <img src="https://danielptv-github-readme-stats.vercel.app/api?username=danielptv&show_icons=true&count_private=true&hide=contribs" />
   </picture>
   
   <picture>
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=danielptv&theme=github_dark&langs_count=6&layout=compact" 
+      srcset="https://danielptv-github-readme-stats.vercel.app/api/top-langs/?username=danielptv&theme=github_dark&langs_count=6&layout=compact" 
       media="(prefers-color-scheme: dark)" 
     />
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=danielptv&langs_count=6&layout=compact" 
+      srcset="https://danielptv-github-readme-stats.vercel.app/api/top-langs/?username=danielptv&langs_count=6&layout=compact" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=danielptv&langs_count=6&layout=compact" />
+    <img src="https://danielptv-github-readme-stats.vercel.app/api/top-langs/?username=danielptv&langs_count=6&layout=compact" />
   </picture>
 </a>
 
