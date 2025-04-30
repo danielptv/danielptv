@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel 👋
 
 ### About Me
-🎓 Studying Business Information Systems B.Sc. @HKA <br>
+🎓 Studying Business Information Systems M.Sc. @HKA <br>
 🏢 Working student @Capgemini <br>
 🌎 Living in Karlruhe, Germany 🇩🇪
 
